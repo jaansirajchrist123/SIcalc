@@ -6,7 +6,7 @@
   }
   body {
     height: 100vh;
-    background: linear-gradient(#01e26e, #72ffb4);
+    background: linear-gradient(#e22e01, #ffff72);
   }
   .container {
     background-color: #ffffff;
@@ -37,7 +37,7 @@
   }
   input:focus {
     outline: none;
-    border-bottom: 2.4px solid #01e26e;
+    border-bottom: 2.4px solid #0801e2;
   }
   .input-wrapper {
     display: flex;
@@ -60,7 +60,7 @@
   }
   button {
     display: block;
-    background-color: #01e26e;
+    background-color: #018ce2;
     border: none;
     color: #ffffff;
     margin: 20px auto 0 auto;
